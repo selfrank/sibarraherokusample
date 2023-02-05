@@ -12,10 +12,10 @@
     "type": "git",
     "url": "git+https://github.com/kogsio/littletiers.git"
   },
-  "engines":{
+  "engines": {
     "node": "14.x"
   },
-  "author": "abel@mit.edu",
+  "author": "sibarra-scurr",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kogsio/littletiers/issues"
